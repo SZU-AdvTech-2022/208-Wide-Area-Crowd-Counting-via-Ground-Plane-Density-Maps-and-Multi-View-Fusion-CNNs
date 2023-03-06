@@ -1,0 +1,7 @@
+@inproceedings{REPO-209,
+    author = "Zhang, Qi and Chan, Antoni B.",
+    booktitle = "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    pages = "8289-8298",
+    title = "{Wide-Area Crowd Counting via Ground-Plane Density Maps and Multi-View Fusion CNNs}",
+    year = "2019"
+}
